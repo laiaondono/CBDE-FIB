@@ -26,21 +26,19 @@ Comentaris: Aggregation: Combine should be different from reduce, since Avg is n
 
 ### LABORATORI 5
 8,15/10  
-Comentaris: 
+Comentaris:  
 [Document]
 Inserts/Updates: There is no discussion on the impact of inserts/updates
-Queries/Optimizations: There is no discussion on optimizations (e.g., indexes)  
-
+Queries/Optimizations: There is no discussion on optimizations (e.g., indexes)
 [Code]
 Insertions: No massive inserts for testing volume
 
 ### LABORATORI 6
 8,1/10  
-Comentaris: 
+Comentaris:  
 [Document]
 Design: Very good!
-Optimizations/Indexes: OK!  
-
+Optimizations/Indexes: OK!
 [Code]
 Insertions: No massive inserts to test volume
 Q1: OK!
